@@ -1,4 +1,4 @@
-# Image Recognition as a Service
+# Image Recognition Service
 
 ## Problem Description 📋
 ➡ The main goal of this project is to build a web application that automatically scales in and out based on the load that is recieved by the application. \
